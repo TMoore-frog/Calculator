@@ -1,5 +1,5 @@
 script_name('MathPro')
-script_version('0.3')
+script_version('0.4')
 script_author('TMoore')
 
 require "lib.moonloader"
