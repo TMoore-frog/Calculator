@@ -36,9 +36,10 @@ local Vvodchisel = imgui.ImBool(false)
 local result = imgui.ImBool(false)
 
 Version_Script = [[
-Ver 0.2
+Ver 0.3
 1.Автообновление
-2.Логика
+Ver 0.2
+1.Логика
 ]]
 
 function infinity()
